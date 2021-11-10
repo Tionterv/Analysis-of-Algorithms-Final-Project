@@ -1,5 +1,4 @@
 # Analysis of Algorithms - Final Project
-8 Puzzle
 ***************************************
 This program consist on solving 8 puzzle problem. The 8-puzzle consists of 8 tiles and one empty space where the tiles can be moved. 
 
